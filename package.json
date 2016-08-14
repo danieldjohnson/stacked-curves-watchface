@@ -1,0 +1,24 @@
+{
+    "author": "hexahedria@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "stacked-curves",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Stacked Curves",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "uuid": "1b82a15f-bee2-4498-af34-696bd69b4ec7",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
